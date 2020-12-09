@@ -1,6 +1,6 @@
 # Installation
 
-just execute `install.sh` on Linux x64 platform.
+just follow this on linux command.
 
 ```
     curl -O https://raw.githubusercontent.com/webmasterepage/systemd-ngrok/master/install.sh
