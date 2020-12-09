@@ -22,3 +22,6 @@ or just execute `install.sh` on Linux x64 platform.
     chmod +x install.sh
     sudo ./install.sh <your_authtoken>
 ```
+Install on background
+
+sudo /opt/ngrok/ngrok start --all --config /opt/ngrok/ngrok.yml &
